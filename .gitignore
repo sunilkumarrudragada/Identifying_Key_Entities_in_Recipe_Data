@@ -1,0 +1,6 @@
+data.zip
+data/
+data_split/
+.DS_Store
+.ipynb_checkpoints/
+CNN_Waste_Segregation_Sunil.ipynb
